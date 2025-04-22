@@ -6,11 +6,7 @@ An advanced Excel-based Business Intelligence solution to analyze and visualize 
 
 ## 📽️ Live Dashboard Preview
 
-> 📌 Replace the placeholder below with your actual GIF file (e.g., `dashboard-preview.gif`)
-
-![Dashboard Demo](![Dashboard_preview](https://github.com/user-attachments/assets/c6d8e2b9-7528-43a3-8c73-98c1446f32ca)
-)
-
+![Dashboard Demo](Dashboard_preview.gif)
 ---
 
 ## 📊 Key Features
